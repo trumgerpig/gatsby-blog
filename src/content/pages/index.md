@@ -8,5 +8,4 @@ cta:
   ctaText: 联系我们
   ctaLink: /contact
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+关注洋葱留学博客获取最新最全的加拿大留学咨询以及院校，签证和移民申请的手把手DIY教学。
